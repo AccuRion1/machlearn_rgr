@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['Coat', 'Dresses', 'Hoodie', 'Jeans', 'Shorts', 'Sports_Jacket', 'T-Shirt']
+
+roboflow:
+  workspace: beb-3qws5
+  project: clothes-dataset-cji33
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/beb-3qws5/clothes-dataset-cji33/dataset/1

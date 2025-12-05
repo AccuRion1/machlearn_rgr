@@ -29,7 +29,7 @@ def select_image():
 
 
 root = tk.Tk()
-root.title("ПО для распознавания одежды на изображениях")
+root.title("Kolyan распознование объектов одежды")
 
 win_width = 1000
 win_height = 700
